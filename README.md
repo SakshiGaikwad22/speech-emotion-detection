@@ -68,6 +68,7 @@ These models extract deep speech features, which are then classified using a **S
 ---
 
 ## 📊 Dataset Information
+📂 Dataset used in this project is available here: [Google Drive Link](https://drive.google.com/file/d/1XLhll_ZNXSZWNUaDmEtIq8RE9aBRWOXq/view?usp=sharing)
 
 The dataset consists of **600 audio samples** collected from **8 speakers** across **5 emotions**.
 
